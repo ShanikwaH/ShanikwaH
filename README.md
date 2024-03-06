@@ -1,6 +1,7 @@
 <h1>Hi, I'm Shanikwa, an <a href="https://www.linkedin.com/in/shanikwa-haynes-0ab51a205">IT Professional & Data Analyst 👩🏻‍💻</a></h1>
 
 Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if you have any questions.
+
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -11,7 +12,7 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shanikwah/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shanikwah/azure-network-protocols)
 
-<h2>📊 Data Analytics Projects::</h2>
+<h2>📊 Data Analytics Projects:</h2>
 
 <h2>🤳Connect with me:</h2>
 
