@@ -11,6 +11,8 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shanikwah/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shanikwah/azure-network-protocols)
 
+<h2>📊 Data Analytics Projects::</h2>
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Shanikwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
