@@ -1,6 +1,7 @@
-<h1>Hi, I'm Shanikwa, an <a href="https://www.linkedin.com/in/shanikwa-haynes-0ab51a205">IT Professional</a>☺</h1>
+<h1>Hi, I'm Shanikwa, an <a href="https://www.linkedin.com/in/shanikwa-haynes-0ab51a205">IT Professional & Data Analyst 👩🏻‍💻</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if you have any questions.
+<h2>💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/shanikwah/osticket-prereqs)
