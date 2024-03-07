@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shanikwa! 
   
-<a href="https://www.linkedin.com/in/shanikwa-haynes-0ab51a205">IT Professional & Data Analyst 👩🏻‍💻</a></h1>
+<a href="https://github.com/ShanikwaH">IT Professional & Data Analyst 👩🏻‍💻</a></h1>
 
 Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if you have any questions.
 
