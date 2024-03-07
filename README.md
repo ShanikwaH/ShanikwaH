@@ -13,6 +13,8 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shanikwah/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shanikwah/azure-network-protocols)
+  - [Configuring DNS settings within Azure VMs](https://github.com/shanikwah/configure-dns)
+  - [Network File Shares and Permissions within Azure VMs](https://github.com/shanikwah/configure-network-file-shares-and-permissions)
 
 <h2>📊 Data Analytics Projects:</h2>
 
