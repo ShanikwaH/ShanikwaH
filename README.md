@@ -2,6 +2,8 @@
   
 <a href="https://github.com/ShanikwaH">IT Professional & Data Analyst 👩🏻‍💻</a></h1>
 
+Profile & Screening Questions - Request an interview: https://profile.coursecareers.com/shanikwa.haynes
+
 Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if you have any questions.
 
 <h2>💻 Information Technology Projects:</h2>
