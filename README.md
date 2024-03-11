@@ -16,7 +16,6 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
   - [Configuring DNS settings within Azure VMs](https://github.com/shanikwah/configure-dns)
   - [Network File Shares and Permissions within Azure VMs](https://github.com/shanikwah/configure-network-file-shares-and-permissions)
 
-<h2>📊 Data Analytics Projects:</h2>
 
 <h2>🤳Connect with me:</h2>
 
