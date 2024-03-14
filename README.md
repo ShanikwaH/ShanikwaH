@@ -23,4 +23,4 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
 
 [<img align="left" alt="Shanikwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/shanikwa-haynes-0ab51a205
+[linkedin]: https://www.linkedin.com/in/shanikwahaynes/
