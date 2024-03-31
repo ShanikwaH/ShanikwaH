@@ -23,7 +23,7 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 - [Google IT Support Professional Certificate](https://www.credly.com/badges/99d5d807-caff-4f75-aa06-2f6aabae9484/linked_in?t=rao7px) (April 2022) (Coursera - Google)
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/424140cb-f580-496e-a94b-700aa135124b/linked_in?t=rnw9eb) (January 2023) (Coursera - Google)
 - [IBM Cybersecurity Analyst Professional Certificate](https://www.credly.com/badges/655ecca1-d320-4b12-ae51-61d753a50f71) (February 2023) (Coursera - IBM)
-- [CourseCareers IT Professional](profile.coursecareers.com/shanikwa.haynes) (March 2024) (CourseCareers)
+- [CourseCareers IT Professional](https://profile.coursecareers.com/shanikwa.haynes) (March 2024) (CourseCareers)
    
 
 <h2>🤳Connect with me:</h2>
