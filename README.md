@@ -32,8 +32,8 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 
 [linkedin]: https://www.linkedin.com/in/shanikwahaynes/
 
-[<img align="left" alt="Shanikwa | Calendly" width="22px" src="https://assets.calendly.com/assets/frontend/media/calendly-33a0809afc4c21162dd7.svg" />][Calendly](https://calendly.com/shanikwalhay/30min)
+[<img align="left" alt="Shanikwa | Calendly" width="22px" src="https://assets.calendly.com/assets/frontend/media/calendly-33a0809afc4c21162dd7.svg" />][Calendly]
 
-[![Calendly](https://github.com/your-repository/assets/calendly-logo.png)](https://calendly.com/your-username)
+[![Calendly](https://example.com/calendly-icon.png)](https://calendly.com/shanikwalhay/30min)
 
 You can schedule a meeting with me https://calendly.com/shanikwalhay/30min.
