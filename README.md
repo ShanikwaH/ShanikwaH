@@ -31,3 +31,4 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 [<img align="left" alt="Shanikwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shanikwahaynes/
+You can schedule a meeting with me using the [Calendly popup widget](Calendly.html).
