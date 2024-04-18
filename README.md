@@ -29,6 +29,7 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Shanikwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shanikwa | Calendly" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin](https://calendly.com/shanikwalhay/30min/).svg" />][Calendly]
 
 [linkedin]: https://www.linkedin.com/in/shanikwahaynes/
 [Calendly]: https://calendly.com/shanikwalhay/30min/
