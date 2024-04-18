@@ -34,4 +34,6 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 
 [<img align="left" alt="Shanikwa | Calendly" width="22px" src="https://assets.calendly.com/assets/frontend/media/calendly-33a0809afc4c21162dd7.svg" />][Calendly](https://calendly.com/shanikwalhay/30min)
 
+[![Calendly](https://github.com/your-repository/assets/calendly-logo.png)](https://calendly.com/your-username)
+
 You can schedule a meeting with me https://calendly.com/shanikwalhay/30min.
