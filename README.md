@@ -31,8 +31,8 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 [<img align="left" alt="Shanikwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shanikwahaynes/
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/shanikwalhay/30min', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
-<!-- Calendly badge widget end -->
+<!-- Example Calendly popup widget code -->
+<div>
+  <a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/shanikwalhay/30min'});return false;">Schedule a meeting</a>
+</div>
+<script src="https://calendly.com/assets/external/widget.js" type="text/javascript"></script>
