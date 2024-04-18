@@ -32,3 +32,4 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 
 [linkedin]: https://www.linkedin.com/in/shanikwahaynes/
 You can schedule a meeting with me using the [Calendly popup widget](Calendly.html).
+You can schedule a meeting with me using [Calendly](https://calendly.com/shanikwalhay/30min).
