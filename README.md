@@ -18,7 +18,7 @@ Welcome to my portfolio! Feel free to take a look and reach out on LinkedIn if y
   - [Configuring DNS settings within Azure VMs](https://github.com/shanikwah/configure-dns)
   - [Network File Shares and Permissions within Azure VMs](https://github.com/shanikwah/configure-network-file-shares-and-permissions)
 
-## Certificates
+📃 ## Certificates
 The best way to showcase skills is by doing and sharing your job duties or projects, but sometimes certificates appear to be an indirect result. Here's a list of the ones I have (in reverse chronological order, with the date of completion in brackets):
 - [Google IT Support Professional Certificate](https://www.credly.com/badges/99d5d807-caff-4f75-aa06-2f6aabae9484/linked_in?t=rao7px) (April 2022) (Coursera - Google)
 - [Google Data Analytics Professional Certificate](https://www.credly.com/badges/424140cb-f580-496e-a94b-700aa135124b/linked_in?t=rnw9eb) (January 2023) (Coursera - Google)
