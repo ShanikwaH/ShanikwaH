@@ -35,9 +35,3 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 [linkedin]: https://www.linkedin.com/in/shanikwahaynes/
 
 [<img align="left" alt="Shanikwa | Calendly" width="22px" src="https://assets.calendly.com/assets/frontend/media/calendly-33a0809afc4c21162dd7.svg" />](https://calendly.com/shanikwalhay/30min)
-
-  </a>
-  <a href="mailto:shanikwa.lhaynes@gmail.com">
-    <img src="https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/629f89df634b928c8deb63309527234dd81cbbd9/icons8-email-48.png" alt="Email" style="width: 22px;"/>
-  </a>
-</div>
