@@ -38,6 +38,6 @@ The best way to showcase skills is by doing and sharing your job duties or proje
 
   </a>
   <a href="mailto:shanikwa.lhaynes@gmail.com">
-    <img src="https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/629f89df634b928c8deb63309527234dd81cbbd9/icons8-email-48.png" alt="Email" style="width: 22px; height: 22px;"/>
+    <img src="https://github.com/ShanikwaH/Data-Analysis-Portfolio/blob/629f89df634b928c8deb63309527234dd81cbbd9/icons8-email-48.png" alt="Email" style="width: 22px; height: 25px;"/>
   </a>
 </div>
